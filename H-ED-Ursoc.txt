@@ -1,0 +1,55 @@
+All Heroic Ursoc related discussion should go here. If you've done your own research or uncovered tips from other raiders, please do post it here.
+
+[size=24][b]Guides/Videos[/b][/size]
+
+[youtube]https://www.youtube.com/watch?v=JCGe7duc6Ws[/youtube]
+[url]https://www.youtube.com/watch?v=JCGe7duc6Ws[/url]
+
+[size=24][b]Information[/b][/size]
+
+Finally, a non-multi-phase fight!
+
+[b]Setting[/b]: Standard room, nothing new here.
+[b]Enrage[/b]: Timed enrage
+
+[b]Abilities[/b]:
+[ulist=disc]
+[b][Overwhelm][/b] (tank) - Huge single-target damage. Leaves a debuff. Taunt swap mechanic.
+[b][Rend Flesh][/b] (tank) - Huge single-target damage. Leaves a nasty DoT. Taunt swap mechanic.
+[b]The 'Fixate and Slam' combo[/b] - This is due to an ability called [b][Focused Gaze][/b] which invokes two other abilities: [b][Barreling Impact][/b] and [b][Trampling Slam][/b]. See the detailed explanation for their explanations, as it's a very important ability combo.
+[b][Roaring Cacophony][/b] - Deals massive damage split between anyone within 25 yards. Stay on boss or people gon' die.
+[b][Blood Frenzy][/b] - Like Butcher, the boss will light enrage at 30% HP remaining, gaining 20% attack speed and a 25% damage buff.
+[/ulist]
+
+[size=24][b]Approach[/b][/size]
+
+[size=16][b]TL;DR version[/b][/size]: run out if fixated, soak charge if it's your turn, stand near boss, don't stand in purple shit
+
+[size=16][b]Detailed version[/b][/size]: 
+
+Tanking taunt swaps are a little bit weird in this fight. So, essentially this is a lot like Xhul'horac in which one tank will be tanking one of the abilities, the other tank the other. At various points in the fight, Ursoc will chain multiple abilities together which allows for one or both of the debuffs to drop. Use this timing to swap as long as one of the debuffs fall.
+
+The [b]'Fixate and Slam'[/b] combo mentioned above, EXPLAINED!
+
+So this is a combination of two abilities: [b][Barreling Impact][/b] and [b][Trampling Slam][/b] which come from a single cast of [b][Focused Gaze][/b]. Essentially what happens is this:
+
+[ulist=disc]
+Random player is fixated by [b][Focused Gaze][/b]
+They run as far from the raid as possible. After 6s, Ursoc will charge at him.
+When he reaches his fixate, he will deal "fatal" damage to the target ([b][Trampling Slam][/b]) however, it is greatly reduced the farther away from Ursoc's original location they are.
+Secondly, when the target is reached, Ursoc will deal "fatal" raid-wide damage ([b][Barreling Impact][/b]). This, like Trampling Slam, has a reduction mechanic. To reduce damage from this, players must [b]stand in the charge path from Ursoc to the fixated player[/b].
+Players hit will take moderate damage, but greatly reduce the raid-wide damage dealt afterward.
+However, people cannot tank two charges in a row. Thus, two soak groups need to be created to alternate soaking (oh hey there Butcher)
+[/ulist]
+
+The [b]only other important mechanic[/b]: [b][Roaring Cacophony][/b]. Deals massive damage split between anyone within 25 yards of the boss. This ability also leaves behind a large purple pool of goop on the ground that will mimic the roar, but fearing anyone hit by this other roar. This is to prevent puddle stacking.
+
+Basically: Keep your ass on the boss' hitbox.
+
+[b]CD Usage[/b]
+[ulist=disc]
+[b]Healer CDs[/b]: After the [b]'Fixate and Slam'[/b] comboes. DR CDs made sure that they're up in light enrage.
+[b]Roars[/b]: ?
+[b]Tank CDs[/b]: Will have to see, lots of tank damage going out 24/7 it seems.
+[b]DPS CDs[/b]: On CD, but holding if the 30% light enrage is near. Heroism and second pots at 30%.
+[/ulist]
