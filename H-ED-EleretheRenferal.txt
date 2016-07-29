@@ -1,0 +1,36 @@
+All Heroic Elerethe Renferal related discussion should go here. If you've done your own research or uncovered tips from other raiders, please do post it here.
+
+[size=24][b]Guides/Videos[/b][/size]
+
+[youtube]https://www.youtube.com/watch?v=K_vsV1zU5M4[/youtube]
+[url]https://www.youtube.com/watch?v=K_vsV1zU5M4[/url]
+
+[size=24][b]Information[/b][/size]
+
+[b]Setting[/b]: Large, multi-platform encounter. Expect tons of movement. Occurs in a Emerald Dream version of Mulgore (see background of fight for like a broken Thunder Bluff)
+[b]Enrage[/b]: The boss' transition raid-wide damage amps up each time it goes off, eventually becoming too much to handle.
+
+[b]Abilities[/b]:
+[B]SPIDER FORM[/B]
+[ulist=disc][b][Web of Pain][/b] - Connects two players with a web of pain. Damage taken by either end is duplicated entirely to the other side. ([i]Unsure if this links two tanks or a tank and a player, or just two playyers[/i])
+[b][Feeding Time][/b] - The boss shoots into the air and targets a random ranged player. She will then mark the ground and deal [b]very high[/b] damage to the entire raid. The damage is reduced the farther away you are from the boss.
+During [b][Feeding Time][/b], she will spawn Venomous Spiderlings that apply a heavy DoT to the tank and also buff the boss if they are near her. They also leave a high damage gas cloud on the ground on death (which stacks with other gas clouds on the same spot, be careful)
+[b][Necrotic Venom][/b] - After 10 seconds, you will gain a new debuff that will cause the player to pulse moderate AoE damage every 0.5s to anyone nearby. More importantly, [b]anyone hit by the AoE will ALSO gain this debuff[/b]. Basically, if this accidentally hits a stray person and chains, it could domino-effect its way into the raid [b]very[/b] quickly and instantly wipe everyone.
+[b]ROC/RAVEN FORM[/b]
+[b][Gathering Clouds][/b] - Deals high ticking damage every second and pushes you back for 8(?) seconds. Don't be near an edge. [b]Important note[/b]: People who have [b][Necrotic Venom][/b] can still have this debuff during this ability. They will get straight up destroyed, so keep them spot healed and use personals accordingly.
+[b][Dark Storm][/b] - After casting Gathering Clouds, she will begin AoE'ing the raid as she moves to her next platform. Simply go to her to stop the damage. She will spawn feathers on the ground that grant flight (imagine that feather from WoD that launched you up and you auto-glided) and casting-while-moving. It's highly likely healers will grab these so they can move between platforms while keeping the raid alive.
+[b][Twisting Shadows][/b] - Two players get debuffed with this and spawn dark tornadoes when the debuff expires. Run out of the raid, spawn them, then come back in. 
+[b][Razor Wing][/b] - Targets a random player and channels. After the channel finishes, anyone in front of the boss will take massive damage and be send flying (basically you get sent off the platform or into a tornado if the damage itself doesn't kill you)
+[/ulist]
+
+[size=24][b]Approach[/b][/size]
+
+(unfinished)
+
+[b]CD Usage[/b]
+[ulist=disc]
+[b]Healer CDs[/b]: Probably after [b][Feeding Time][/b]'s AoE (immobile CDs) or during [b][Gathering Clouds][/b] (mobile CDs)
+[b]Roars[/b]: Between platform transitions or to move from [b][Feeding Time][/b] (likely the latter)
+[b]Tank CDs[/b]: During the killing of the Venomous Spiders in [b][Feeding Time][/b], both tanks will be taking absurdly high damage due to [b][Web of Pain][/b]
+[b]DPS CDs[/b]: Same as usual. At start and on CD.
+[/ulist]
