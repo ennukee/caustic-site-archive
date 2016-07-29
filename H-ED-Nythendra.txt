@@ -1,0 +1,50 @@
+All Heroic Nythendra related discussion should go here. If you've done your own research or uncovered tips from other raiders, please do post it here.
+
+[size=24][b]Guides/Videos[/b][/size]
+
+[youtube]https://www.youtube.com/watch?v=QC-DoFyvd2Y[/youtube]
+[url]https://www.youtube.com/watch?v=QC-DoFyvd2Y[/url]
+
+[size=24][b]Information[/b][/size]
+
+[b]Setting[/b]: Large, circular room. Resembles dying plants in its surroundings.
+[b]Special Enrage[/b]: The application of [b][Rot][/b] slowly increases the number it is applied to every 2 Phase 2s that occur. Likely that a normal enrage also exists.
+
+[b]Abilities[/b]:
+[B]STAGE 1[/B]
+[ulist=disc][b][Infested][/b] - If you take any Plague damage from various abilities, you will be inflicted with a stack of [b]Infested[/b]. This is a minimal DoT, however it [b]stacks infinitely[/b] and [b]DOES NOT EXPIRE[/b].
+[i](Note: Mythic Mechanic, but be wary of its power now)[/i] [b][Infested Mind][/b] - Tying into Infested, if you get [b]10[/b] or more stacks of this debuff, you will become [b]Mind Controlled[/b], causing you to constantly cast an AoE pulse that deals high Plague damage. Dealing enough damage to the player will break them free
+[b][Infested Ground][/b] - Creates an area that deals heavy Plague damage every 1.5 seconds (applied [b]Infested[/b])
+[b][Infested Breath][/b] - Large AoE cone targeted at a random player. [i]Note: This does [b]not[/b] mean in front of the tank like most dragon breath mechanics[/i]. This leaves patches of [b][Infested Ground][/b] on the ground that is affected by the breath.
+[b][Rot][/b] - Applied to multiple random players. Pulses moderate AoE damage within 8 yards of that player and [b]leaves behind Infested Ground[/b] when expired.
+[b][Volatile Rot] (TANKS)[/b] - Your standard tank "get marked, run the fuck out of group to deal less damage" mechanic. Spawns Infested Ground.
+[b][Tail Lash][/b] - Standard dragon mechanic. Knocks you very far back if hit.
+[B]STAGE 2[/B]
+During this phase, she will pull all [b][Infested Ground][/b] patches to her. Also, she will spawn small bugs that swell up and pulse for high Plague damage to anyone within 10 yards. Deals ever-increasing damage if you are hit multiple times.
+All Infested stacks are removed during this phase.
+[/ulist]
+
+[size=24][b]Approach[/b][/size]
+
+So this fight is essentially a game of "who can get the fewest Infested stacks".
+
+My ideal situation for this boss is something like the following picture:
+
+[img]http://i.imgur.com/SLmhpgR.png[/img]
+
+(note the lighter green area is the inner platform whereas the darker green is the vine-y outer portion)
+
+The blue circle is the boss location, T is tank location, R is where the rest of the raid stands. If Rot is going out, they run behind the group to the highlighted area labeled [b]Y[/b]. If tanks get Volatile Rot, they will get to anywhere within the highlighted [b]X[/b] area (basically just get the fuck out and be on the vine portion so there's no issue with the Infested Ground the tanks drop later on in the fight).
+
+Once we get Infested Breath, basically just rotate the picture. Move clockwise along the platform, keeping this style. When Phase 2 hits, we will move to the opposite side of the room where there is the least Infested Ground (likely some from tanks maybe).
+
+
+[b]CD Usage[/b]
+[ulist=disc]
+[b]Healer CDs[/b]: Seems like the most intensive portion of this fight is at the end of each Phase 1 when the DoTs are at their highest. Damage-reduction related CDs are used when Rots are applied (like Gift of the Man'ari on Socrethar)
+[b]Roars[/b]: Likely pre-casted for her breath or Rots. Unsure.
+[b]Tank CDs[/b]: Not sure on this. Perhaps during Volatile Rot, not 100% on if it deals heavy damage.
+[b]DPS CDs[/b]: On pull and on CD (or as deemed necessary) from then on (no priority adds or increased damage phase)
+[/ulist]
+
+That's it. Dead boss GG we win.
