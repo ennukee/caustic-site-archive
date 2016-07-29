@@ -1,0 +1,61 @@
+All Heroic Il'Gynoth, The Heart of Corruption related discussion should go here. If you've done your own research or uncovered tips from other raiders, please do post it here.
+
+[size=24][b]Guides/Videos[/b][/size]
+
+[youtube]https://www.youtube.com/watch?v=VK395viRGv0[/youtube]
+[url]https://www.youtube.com/watch?v=VK395viRGv0[/url]
+
+[size=24][b]Information[/b][/size]
+
+[b]Setting[/b]: Outside of a gigantic tree. Goal: enter tree, but it's guarded by a big eye.
+[b]Enrage[/b]: An ability [b][Final Torpor][/b] will instantly kill all raid members after a certain number of Phase 2s.
+
+[b]Abilities[/b]:
+[ulist=disc][B]PHASE 1 (outside)[/B]
+The Eye of Il'gynoth takes 99% reduced damage from all sources excluding Nightmare Eruptions (see below)
+[b][Nightmare Corruption][/b] - Red blotch on the ground. Deals very high ticking damage to anyone standing in it.
+[b][Nightmare Gaze][/b] - Fixates a random target and deals moderate shadow damage to them. Jumps to nearby players.
+[b]Nightmare Ichor (add)[/b]
+These little blob adds fixate on a player. If they melee their target, theyy leave behind a DoT that deals low damage but stacks.
+When they die, they cast [b][Nightmare Explosion][/b] dealing heavy damage to anyone nearby. Can hurt the Eye of Il'gynoth
+[b]Nightmare Horror (tank add)[/b]
+These adds can cast [b][Eye of Fate][/b] which is a very high damage ability in a line in front of the Horror and increases damage taken by this ability by 50% for 30 seconds (stacks).
+While alive, they pools of Nightmare Corruption underneath them periodically.
+[b]Deathglare Tentacle (add)[/b] - They will cast an [i]interuptable[/i] [b][Mind Flay][/b] on a random player. Deals heavy damage every 2 seconds for 8 seconds if uninterupted.
+[b]Corruptor Tentacle (add)[/b] - They will cast [b][Spew Corruption][/b], which inflicts nearby players with moderate shadow damage and cause them to spawn a pool of Nightmare Corruption every 2 seconds for 10 seconds.
+[b]Dominator Tentacle (tank add)[/b] - Must be tanked. They will do two things: Small shockwave in a line, deals moderate damage, and it will randomly start smacking  the fuck outta the tank.
+
+[B]PHASE 2 (inside)[/B]
+[b][Cursed Blood][/b] - Inflicts many random players with a debuff that deals low-moderate damage over 8s. When expired, players will detonate and deal high damage to anyone within 11 yards.
+[b][Reabsorption][/b] - If a Nightmare Ichor enters the chamber, it will burst and deal moderate-high raid-wide damage.
+[b][Dark Reconstitution][/b] - Cast throughout the phase, this will kill all players who remain inside the chamber and regrows the Eye of Il'gynoth. Basically: GTFO before it finishes.
+[/ulist]
+
+[size=24][b]Approach[/b][/size]
+
+[size=16][b]tl;dr[/b][/size]: 
+[i]Outside[/i]: Interrupt deathglare, run out if get Corruptor debuff, kite Ichors until decided to AoE. 
+[i]Inside[/i]: Spread the fuck out when the quadrillion circles appear. 
+
+[size=16][b]Detailed[/b][/size]: 
+
+Phase 1 is essentially a Hellfire Assault + Blast Furnace baby. Tons of adds are constantly coming out. Here's the breakdown:
+
+[ulist=disc][b]Nightmare Horror[/b] - Top priority. Will devastate tanks. Large, vine-y lookin' guy.
+[b]Corruptor Tentacle[/b] - Low priority. Watch for its cast. If you get the debuff, get out of the raid ASAP until it's gone.
+[b]Deathglare Tentacle[/b] - Interupt it. Low priority unless it's not getting interupted.
+[b]Dominator Tentacle[/b] - High priority. Must be tanked, watch for it facing a random direction. 
+[b]Nightmare Ichor[/b] - Moderate priority. These will fixate random peeps. [b]Drag them to the eye[/b]. When nearby the eye, these adds become the [b]absolute top priority[/b]. If they can hit the eye and are below 50% or so, kill them FAST. Fixated targets cannot afford to get melee'd more than 2-3 times without causing healer troubles. See below for strategy on this.
+[/ulist]
+
+For [b]Nightmare Ichor[/b], it seems like blowing these up one-by-one is inefficient. It is highly recommended to wait until downtime occurs (timing pending, will require experience) and then bring them all to the eye and AoE the bloody hell outta them. Use stuff like Typhoon, Vortex, etc to push them towards the eye if necessary. Waiting for most tentacles to be down is also advisable. Do not let any ichors enter the tree.
+
+Phase 2 is very simple. Tank and spank except for [b][Cursed Blood][/b]. Very much a clusterfuck. Spread best you can. Stick to center if you don't get this.
+
+[b]CD Usage[/b]
+[ulist=disc]
+[b]Healer CDs[/b]: Probably during [b][Cursed Blood][/b] casts, as many people take moderate ticking damage (and overlaps = huge damage spikes)
+[b]Roars[/b]: To enter and escape from the inner portion of the tree.
+[b]Tank CDs[/b]: [b][Eye of Fate][/b] from [b]Nightmare Horror[/b]s. On the second cast per tank.
+[b]DPS CDs[/b]: ?
+[/ulist]
