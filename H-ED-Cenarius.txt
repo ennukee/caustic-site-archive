@@ -1,0 +1,92 @@
+All Heroic Cenarius related discussion should go here. If you've done your own research or uncovered tips from other raiders, please do post it here.
+
+[size=24][b]Guides/Videos[/b][/size]
+
+(none)
+
+[size=24][b]Information[/b][/size]
+
+[b]Setting[/b]: Rectangle-ish room, Cenarius starts on the far side of the room.
+[b]Enrage[/b]: ?
+
+[size=24][b]Abilities[/b][/size]
+
+This fight's abilities is fairly complex and lengthy, so this won't be just a single list of abilities.
+
+[size=16][b]Phase 1: Forces of Nightmare[/b][/size]
+
+During this phase, there are four major things to pay attention to:
+[ulist=disc][b]Cenarius[/b], the boss himself
+[b]Malfurion Stormrage[/b], a friendly who causes different mechanics in the fight
+[b]Forces of Nightmare[/b], different potential adds that have their own mechanics
+[b]Allies of Nature[/b], purified Forces of Nightmare[/ulist]
+
+[b]Cenarius[/b]
+[ulist=disc][b][Creeping Nightmares][/b] - Constant raid-wide damage. Deals minimal damage but applies a debuff that increases the damage of this ability by 20%. This stacks infinitely and is a permanent debuff.
+[b][Nightmare Brambles][/b] - Spawns an add that will constantly create [b]Nightmare Brambles[/b]. Coming into contact with these will root you and cause moderate ticking damage. [i]Dispellable[/i].
+[b][Aura of Dread Thorns][/b] - Grants allies within 30 yards a buff. This buff reflects 50% of damage dealt to the user back to their attacker (split adds & boss).
+[b][Forces of Nightmare][/b] - Spawns inanimate [b][Forces of Nightmare][/b]. If not cleansed within 10 seconds, they will animate and spawn their respective add. 
+[/ulist]
+
+[b]Malfurion Stormrage[/b]
+[ulist=disc][b][Cleansing Ground][/b] - Malfurion will cleanse the ground under the Force of Nightmare with the largest number of players near it. Cleansed FoM turn into Allies of Nature. Additionally, [b]players within 12 yards of the target have all stacks of [Creeping Nightmares] removed[/b] (very important).
+[b][Cleansed Ground][/b] - The aftermath of [b][Cleansing Ground][/b]. This area grants immunity to Creeping Nightmares while inside. However, while players are inside or if someone with Creeping Nightmare stacks enters the ground, it will slowly shrink.
+[/ulist]
+
+[b]Forces of Nightmare[/b]
+[ulist=disc][b]Corrupted Wisp[/b] (add) - [i]Spawns from [b]Tormented Souls[/b][/i]. Fixates(?) on a random player. Deals moderate damage to all players near the fixate target if the Wisp reaches them.
+[b]Nightmare Ancient[/b] (add) - [i]Spawns from [b]Corrupted Sapling[/b][/i]. Casts [b][Dessicating Stomp][/b] which deals massive damage split between players within 8 yards. If nobody is hit at all, it deals high damage to the entire raid.
+[b]Rotten Drake[/b] (add) -  [i]Spawns from [b]Corrupted Emerald Egg[/b][/i]. Randomly faces targets and does an AoE cone breath in said direction for 4 seconds. At low health, it will spam [b][Nightmare Buffet][/b] which deals ever-increasing raid-wide damage.
+[b]Twisted Sister[/b] (add) - [i]Spawns from [b]Corrupted Nature[/b][/i]. Applies random people with [b][Nightmare Javelin][/b], which is a [i]dispelable[/i] debuff that deals a pulsing AoE damage within 4 yards. She also casts an [i]interuptable[/i] and [i]dispelable[/i] HoT on an injured ally. She also applies [b][Scorned Touch][/b] to the tank (I think) that spreads to anyone within 8 yards (and will keep spreading), deals damage and slows.
+[/ulist]
+
+[b]Allies of Nature[/b]
+[ulist=disc][b]Wisp[/b] (ally) - Uses [b][Cleansing Detonate][/b] to spawn much more [b][Cleansed Ground][/b] (see Malfurion Stormrage)
+[b]Cleansed Ancient[/b] (ally) (healer mechanic) - Periodically casts [b][Replenishing Roots][/b], which gives nearby allies 3% max mana.
+[b]Emerald Drake[/b] (ally) (tank mechanic) - Essentially provides the tank a permanent Guardian Angel (from HPriest) until they take what-would-be a killing blow.
+[b]Redeemed Sister[/b] (ally) - Grants immunity to shadow damage and movement impairing effects for 4 seconds and increases movement speed by 75%. "Causes Unbound Essence to allies within 6 yards after 4 seconds" (not sure if this means that you keep it rubberbanding as long as allies near you have it)
+[/ulist]
+
+[size=16][b]Phase 2: Your Nightmare Ends[/b][/size]
+
+After the last wave of Forces of Nightmare are defeated or if Cenarius reaches 30% health, this phase begins.
+
+[b]Cenarius[/b]
+[ulist=disc]Cenarius retains [b][Creeping Nightmares][/b] and [b][Nightmare Brambles][/b] from Phase 1.
+[b][Spear of Nightmares][/b] (tank mechanic) - Inflicts massive [b]physical[/b] damage to the tank and applies the standard "damage taken increased" tank swap mechanic. Nightmares spawn at the target location and the size of the area is increased based on how much damage was actually taken from this ability (accounts for DR)
+[b][Entangling Nightmares][/b] - Cenarius engulfs Malfurion in Nightmare Roots, stunning him and inflicting damage every second. These roots can be removed from Malfurion by destroying them.
+[/ulist]
+
+[b]Malfurion Stormrage[/b]
+[ulist=disc]Retains [b][Cleansing Ground][/b] and [b][Cleansed Ground][/b] except that [b][Cleansing Ground][/b] now simply targets the largest cluster of players rather than a Force of Nightmare.
+[/ulist]
+
+[size=24][b]Approach[/b][/size]
+
+[size=16][b]TL;DR version[/b][/size]: stand on designated FoM when active, kill adds, soak stomp from [b]Nightmare Ancient[/b] if not cleansed, watch the ground, walk in [b][Cleansed Ground][/b] to remove [b][Creeping Nightmares][/b].
+
+[size=16][b]Detailed version[/b][/size]: 
+
+Lots of stuff, but the fight itself isn't particularly crazy. The biggest thing will be deciding what FoM to cleanse.
+
+The core mechanic of the fight is [b][Creeping Nightmares][/b] it is a constantly increasing raid-wide damage. It deals very little damage at the start, but ramps up very quickly as each debuff stack increases the damage by 20%. It is applies approximately every 2 seconds.
+
+Obviously watch out for the [b][Nightmare Brambles][/b], but they're fairly easy to notice and avoid.
+
+Now, for the [b][Forces of Nightmare][/b]. The Rotten Drake seems like a very simple add to deal with, so I don't think cleansing the Emerald Egg is a good idea. Same applies to the Wisp, it is also a simple mechanic just like Void Stars on Archimonde. Now it comes down to the two annoying adds: the [b]Nightmare Ancient[/b] and [b]Twisted Sister[/b]. Since multiple of these FoM phases occur, I'm an advocate for alternating between these two.
+
+However, depending on how hard [b][Spear of Nightmares][/b] hits, we may have to cleanse the [b]Rotten Drake[/b] at some point to give the tanks the Guardian Angel effect to survive that P2 mechanic. But I believe we'll be able to survive that mechanic with personal DRs and externals.
+
+As for the Cleansed Ground, it is best if you're in the initial cleansing (as it doesn't shrink the ground), but if you have over 15 stacks (i.e. the ticking is chunking you hard) it is recommended to enter the [b][Cleansed Ground][/b] to remove the stacks. Do not cleanse too early / too frequently, as this will cause the ground to shrink too much.
+
+As for the other mechanics: [b]Do NOT hit the adds until they have been separated from Cenarius[/b] (due to [b][Aura of Dread Thorns][/b]).
+
+Other than that, adds > boss. Movement for this fight will most likely be an experience situation (I foresee the FoM spawns being variable, not always in the same spot, so stacking may not be viable until after FoM goes out.)
+
+[b]CD Usage[/b]
+[ulist=disc]
+[b]Healer CDs[/b]: If the [b]Nightmare Ancient[/b] is active, people will prob be needing CDs to stay alive.
+[b]Roars[/b]: ?
+[b]Tank CDs[/b]: [b][Spear of Nightmares][/b]
+[b]DPS CDs[/b]: ?
+[/ulist]
