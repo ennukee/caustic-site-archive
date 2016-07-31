@@ -1,0 +1,103 @@
+All Heroic Dragons of Nightmare related discussion should go here. If you've done your own research or uncovered tips from other raiders, please do post it here.
+
+[size=24][b]Guides/Videos[/b][/size]
+
+(none)
+
+[size=24][b]Information[/b][/size]
+
+[b]Setting[/b]: Very large standard looking room.
+[b]Enrage[/b]: ?
+
+[size=16][b]Please note:[/b] Flying mechanics are Heroic and Mythic only.[/size]
+
+[b]Abilities[/b]:
+
+[size=16][b]- - SHARED ABILITIES - -[/b][/size]
+[ulist=disc]
+[b][Mark of (dragon)][/b] - There is a mark for each dragon. These will be applied to anyone within 45 yards of said dragon. It is applied every 5 seconds and if you reach 10 stacks of ANY debuff, you will be afflicted by [b][Slumbering Nightmare][/b] (see next ability)
+[b][Slumbering Nightmare][/b] - Anyone who reaches 10 stacks of a dragon debuff will be afflicted by this and be stunned for [b]30 seconds[/b].
+[b][Corrupted Breath][/b] - Standard AoE-in-front-of-dragon mechanic. Very far range, face dragons away from center.
+[b][Tail Lash][/b] - you know what this is
+[/ulist]
+
+[size=16][b]- - Ysondre Abilities - -[/b][/size]
+[ulist=disc]
+[b][Nightmare Blast][/b] - Large targetted AoE that deals moderate damage and knocks back if struck. Spawns a [b][Nightmare Bloom][/b].
+[b][Nightmare Bloom][/b] - Every 3 seconds, deal low-moderate shadow damage to those standing within its area of effect. If nobody is in the area of effect, it will spawn a [b][Dread Horror][/b] instead (aka soak it).
+[b]Dread Horror[/b] (add) - Uses an ability called [b][Wasting Dread][/b], players within 5 yards of the Dread Horror have their damage reduced by 50% (Heroic/Mythic only).
+[b][Call Defiled Spirit][/b] - Calls forth a defiled druid spirit from the emerald nightmare, which roots players than detonates. It will root all players within 10 yards ([b]Defiled Vines[/b]) ([i]dispellable[/i]). After a time it will detonate ([b][Defiled Eruption][/b]) and deal very high damage to anyone still within 10 yards.
+[size=16][b]- - Emeriss Abilities - -[/b][/size]
+[b][Volatile Infection][/b] (healers) (grounded mechanic) - Burns a target, inflicting small nature damage to the target and anyone within 10 yards of the target every 3 seconds [b]for 90 seconds[/b].
+[b][Essence of Corruption][/b] (dps) (grounded mechanic) - Emeriss periodicially spawns [b]Essence of Corruption[/b] adds. These adds cast an interruptable [b][Corruption][/b] which deals low-moderate raid-wide damage.
+[b][Corruption of the Dream][/b] (flying mechanic) - Whenever one of her allies die, they spawn a corrupted mushroom which will explode for moderate-high damage to anyone nearby.
+[/ulist]
+
+[size=16][b]- - Lethon Abilities - -[/b][/size]
+[ulist=disc]
+[b][Siphon Spirit][/b] (dps) (grounded mechanic) - Lethon will create a "soul fragment" of players. If not killed, these fragments will heal both Lethon and Ysondre for high amounts.
+[b][Gloom][/b] (grounded mechanic) - "Nightmares" will periodically fall from the sky, dealing moderate damage to anyone in the 10 yard impact zone.
+[b][Shadow Burst][/b] (flying mechanic) - Targets a random player and after 10 seconds, the effect will spread to the three nearest players, inflicting minimal damage every 3 seconds and reducing movement speed by 10% for 21 seconds total.
+[/ulist]
+
+[size=16][b]- - Taerar Abilities - -[/b][/size]
+[ulist=disc]
+[b][Shades of Taerar][/b] (tank) (grounded mechanic) - Taerar splits into two clones, they have less health and do less damage but share the same abilities. (unconfirmed: generates 2x of the marks too?)
+[b][Seeping Fog][/b] ([i]dispellable[/i]) (grounded mechanic) - Nightmare fog seeps from Taerar, putting to sleep and dealing damage per second to anyone who comes into contact with it. Lasts for 6 seconds. [i]Dispellable[/i].
+[b][Bellowing Roar][/b] (flying mechanic) - Raid-wide fear for 3 seconds.
+[/ulist]
+
+[size=24][b]Approach[/b][/size]
+
+[size=16][b](kind of) TL;DR version[/b][/size]: don't stand in shit on the ground (unless told to), don't be in front or behind boss, nuke every add you see
+
+[size=16][b]Detailed version[/b][/size]: 
+
+The way the dragons work: Ysondre is [b]always[/b] on the ground. One of the remaining three dragons will start on the ground (unsure if this is guaranteed to be a specific dragon every time). These dragons [b]all share a health pool[/b]. 
+
+At 70%, the one on the ground will fly into the air and one of the dragons currently in the air will land. At 40%, the same will happen again for the last dragon that has not landed. Each dragon has mechanics specific to being on the ground and being in the air. However, air mechanics are only present on [b]Heroic or higher[/b].
+
+Each dragon has a "Mark" that is applies to everyone within 45 yards (aka max attack range). It applies every 5 seconds and if it reaches 10 stacks, you will be stunned for 30 seconds. Nothing can remove this except death (or waiting it out). Thus, unless you are capable of taking the secondary dragon (not Ysondre) within 50 seconds, it is recommended to swap sides. Do NOT accidentally take stacks of the other active dragon ([i]I'm looking at you multi-dotters[/i]), as the debuffs last for 40 seconds so taking a stack in the middle of the phase will screw you over.
+
+If the the swap-points are longer than 50s (I expect it will be), then the raid must change sides approximately every 40s to avoid reaching that 10th stack.
+
+Each dragon has a breath. Face dragons towards outside, only tank should be in front. They also have a Tail Lash (unsure if this ABILITY is Mythic only or if the knockback is Mythic only).
+
+At all times, be on alert for various ground effects ([b][Nightmare Blast][/b] and [b][Defiled Vines][/b]). Once the [b][Nightmare Bloom][/b] spawns from it, SOAK IT IMMEDIATELY. Even if you aren't assigned to it, soak it until the correct soaker arrives. Any unnecessary [b]Dread Horror[/b] spawns will be detrimental. If you get rooted by [b][Defiled Vines][/b], call for a dispel immediately.
+
+[b]- - WHEN EMERISS IS GROUNDED - -[/b]
+
+Whoever gets [b][Volatile Infection][/b] needs to leave the group ASAP and remain outside for the entire duration.
+
+Watch for the [b]Essence of Corruption[/b] add spawns. They must be interrupted.
+
+[b]Lethon flying[/b]: Watch for Shadow Burst and make sure no healer gets affected by the expiring split
+[b]Taerar flying[/b]: /shrug
+
+[b]- - WHEN LETHON IS GROUNDED - -[/b]
+
+Due to [b][Siphon Spirit][/b], it is recommended all ranged players remain as far from the boss as possible. If this can affect melee, it's recommended melee stay on Ysondre during this. Also if it can affect melee, hero-ing and potting here to force a transition ASAP (so melee don't get stunned by Ysondre) is likely a good idea.
+
+Watch for shit on the ground ([b][Gloom][/b] impacts)
+
+Keep watch for [b][Siphon Spirit][/b] fragment adds. They will cause a large setback (much like blood globule healing in Kilrogg) if they reach the boss.
+
+[b]Emeriss flying[/b]: Don't be near dying dragons 
+[b]Taerar flying[/b]: /shrug
+
+[b]- - WHEN TAERAR IS GROUNDED - -[/b]
+
+Watch the Taerar tank closely as he will be holding both Taerar shades and will be taking a lot of damage from [b][Corrupted Breath][/b].
+
+Be aware of the fog that seeps from the boss, as colliding with it will put you to sleep for 6 seconds and deal a good chunk of damage per second in that time.
+
+[b]Emeriss flying[/b]: Don't be near dying dragons 
+[b]Lethon flying[/b]: Watch for Shadow Burst and make sure no healer gets affected by the expiring split
+
+[b]CD Usage[/b]
+[ulist=disc]
+[b]Healer CDs[/b]: ?
+[b]Roars[/b]: When swapping between dragons
+[b]Tank CDs[/b]: Taerar shade split.
+[b]DPS CDs[/b]: If [b][Siphon Spirit][/b] hits melee, then whenever Lethon lands will be the time to Hero/Pot/CD
+[/ulist]
